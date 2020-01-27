@@ -22,6 +22,8 @@ class DataPrac{
 		else
 			System.out.println("Enter correctly");
 		
+		//Comment from abhijit : He beutiful :)
+		
 	}
 	
 }
